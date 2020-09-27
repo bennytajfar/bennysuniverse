@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e117518f0f424c9ca60d503c44cf583",
+    "revision": "29cd92daa1ce665a033cfdec7fadfb92",
     "url": "/bennysuniverse/index.html"
   },
   {
-    "revision": "05844533408efc025208",
-    "url": "/bennysuniverse/static/css/main.badf0080.chunk.css"
+    "revision": "9b7ff41e20244ed5583f",
+    "url": "/bennysuniverse/static/css/main.3059860a.chunk.css"
   },
   {
-    "revision": "d093f5340517e732c392",
-    "url": "/bennysuniverse/static/js/2.10e334d3.chunk.js"
+    "revision": "fa476b25a7553f9521d1",
+    "url": "/bennysuniverse/static/js/2.d4878104.chunk.js"
   },
   {
     "revision": "5f8be6edcb631ea3c834b8459dc2c264",
-    "url": "/bennysuniverse/static/js/2.10e334d3.chunk.js.LICENSE.txt"
+    "url": "/bennysuniverse/static/js/2.d4878104.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05844533408efc025208",
-    "url": "/bennysuniverse/static/js/main.503dd859.chunk.js"
+    "revision": "9b7ff41e20244ed5583f",
+    "url": "/bennysuniverse/static/js/main.86d61a0f.chunk.js"
   },
   {
     "revision": "424c7ac5b5ca7c25ec8b",
